@@ -1,0 +1,27 @@
+
+.wrapper1 {
+width: 25%;
+background: coral;
+}
+ 
+.wrapper2 {
+width: 200%;
+margin-right: -100%; 
+position: relative;
+left: 100%;
+background: lightgreen;
+}
+ 
+.column1 {
+float: left;
+width: 50%;
+margin-right: -100%;
+position: relative;
+left: -50%;
+}
+ 
+.clear {
+clear: both;
+font-size: 0;
+overflow: hidden; 
+}
